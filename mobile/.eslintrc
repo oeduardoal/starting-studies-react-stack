@@ -34,7 +34,7 @@
     ]
   },
   "settings": {
-    "imports/resolver": {
+    "import/resolver": {
       "babel-module": {}
     }
   },
